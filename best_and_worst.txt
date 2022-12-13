@@ -1,0 +1,7 @@
+Indicator:             Min                    Max
+--------------------------------------------------------------------------------
+Minnesota              129.8                  Mississippi           266.5                
+District of Columbia   4.84                   Wyoming               24.62                
+New Hampshire          16.4                   Mississippi           64.2                 
+Utah                   9.1                    West Virginia         26.8                 
+Colorado               21.4                   Mississippi           34.5                 
