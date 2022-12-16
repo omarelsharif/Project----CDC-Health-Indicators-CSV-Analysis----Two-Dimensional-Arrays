@@ -6,7 +6,7 @@
 Code Idea  / Explainer
 
 There are 20 health indicators that the CDC includes in the CSV file that it regularly publishes,
-but for simplicity a wrote a program that only looks at five: Heart Disease Death Rate, Motor Vehicle Death Rate, Teen Birth Rate, Adult Smoking, and Adult Obesity. 
+but for simplicity the program I wrote looks at five: Heart Disease Death Rate, Motor Vehicle Death Rate, Teen Birth Rate, Adult Smoking, and Adult Obesity. 
 
 Essentially, this code reads data from the CSV file and finds the states with the best and worst record for each indicators.
 It then produces a file called “best_and_worst.txt”
